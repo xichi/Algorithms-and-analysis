@@ -97,6 +97,6 @@ BFS 全称是 Breadth First Search ，中文名是宽度优先搜索，也叫广
 
 + 内容：自学并完成一个简单的RSA公开密钥系统的构造
 + 要求：了解密码学中加/解密的基本原理，掌握数论的基本知识，理解非对称密码体制RSA加密算法的工作原理和流程；能够设计并实现一个简单的RSA公开密钥系统。
-+ references
++ References
   + [code](https://www.geeksforgeeks.org/rsa-digital-signature-scheme-using-python/)
   + [articles](https://zhuanlan.zhihu.com/p/44185847)
